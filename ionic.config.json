@@ -1,0 +1,8 @@
+{
+  "name": "taol",
+  "app_id": "8f0e56a2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
